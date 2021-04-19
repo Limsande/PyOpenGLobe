@@ -35,3 +35,4 @@ This project is licensed under the terms of the MIT license. Do whatever you wan
 * Texturing a sphere from: https://stackoverflow.com/questions/42986754/pyopengl-sphere-with-texture?answertab=oldest#tab-top 
 * Click and drag from: http://goldsequence.blogspot.com/2017/04/using-mouse-for-object-zoom-inzoom.html
 * Texture image from: http://planetpixelemporium.com/earth.html
+* Mars image is the _Mars Viking Colorized Global Mosaic_ from [USGS Astrogeology Science Center](https://astrogeology.usgs.gov/search/map/Mars/Viking/MDIM21/Mars_Viking_MDIM21_ClrMosaic_global_232m)
